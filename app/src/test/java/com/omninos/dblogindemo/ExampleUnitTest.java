@@ -1,4 +1,4 @@
-package com.omninos.dbproject;
+package com.omninos.dblogindemo;
 
 import org.junit.Test;
 

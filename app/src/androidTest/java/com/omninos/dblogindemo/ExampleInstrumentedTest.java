@@ -1,4 +1,4 @@
-package com.omninos.dbproject;
+package com.omninos.dblogindemo;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.omninos.dbproject", appContext.getPackageName());
+        assertEquals("com.omninos.dblogindemo", appContext.getPackageName());
     }
 }
